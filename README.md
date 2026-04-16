@@ -27,12 +27,6 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?tlPreeti\&theme=default)
-
----
-
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlPreeti\&show_icons=true\&count_private=true)
